@@ -16,6 +16,6 @@
 3. Forms, Lifting State Up, Fetch.
 
 ## Friday
-1. I haven't done it yet.
+1. I completed all the exercises.
 2. Solutions to the exercises can be found in the folder "04-friday-exercises".
 3. Exam preparation.
