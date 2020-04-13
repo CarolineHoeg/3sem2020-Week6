@@ -11,7 +11,7 @@
 3. JavaScript, State, List, Keys, Hooks.
 
 ## Thursday
-1. I completed all the exercises, except for "Api Interaction with fetch".
+1. I completed all the exercises.
 2. Solutions to the exercises can be found in the folder "03-thursday-exercises".
 3. Forms, Lifting State Up, Fetch.
 
